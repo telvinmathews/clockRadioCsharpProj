@@ -1,12 +1,17 @@
 class ClockRadio
 {
     //MEMBER VARIABLES
-    public string currentTime;
-    public string currentStation;
-    public bool isOn;
-    public string alarmTime;
+    private string currentTime;
+    private string currentStation;
+    private bool isOn;
+    private string alarmTime;
 
     //CONSTRUCTOR
+
+    public ClockRadio()
+    {
+
+    }
     public ClockRadio(string currentTime, string currentStation, bool isOn, string alarmTime)
     {
         this.currentTime = currentTime;
@@ -15,15 +20,16 @@ class ClockRadio
         this.alarmTime = alarmTime;
     }
 
+
     public string getCurrentTime()
     {
         return this.currentTime;
     }
 
     //MEMBER METHODS
-    public void setCurrentTime(string currentTime)
+    public string setCurrentTime(string currentTime)
     {
-        this.currentTime = currentTime;
+        return this.currentTime = currentTime;
     }
 
     public string getCurrentStation()

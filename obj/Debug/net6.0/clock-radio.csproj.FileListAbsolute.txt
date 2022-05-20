@@ -1,0 +1,15 @@
+C:\Users\tmathews\Desktop\clock-radio\bin\Debug\net6.0\clock-radio.exe
+C:\Users\tmathews\Desktop\clock-radio\bin\Debug\net6.0\clock-radio.deps.json
+C:\Users\tmathews\Desktop\clock-radio\bin\Debug\net6.0\clock-radio.runtimeconfig.json
+C:\Users\tmathews\Desktop\clock-radio\bin\Debug\net6.0\clock-radio.dll
+C:\Users\tmathews\Desktop\clock-radio\bin\Debug\net6.0\clock-radio.pdb
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\clock-radio.csproj.AssemblyReference.cache
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\clock-radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\clock-radio.AssemblyInfoInputs.cache
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\clock-radio.AssemblyInfo.cs
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\clock-radio.csproj.CoreCompileInputs.cache
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\clock-radio.dll
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\refint\clock-radio.dll
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\clock-radio.pdb
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\clock-radio.genruntimeconfig.cache
+C:\Users\tmathews\Desktop\clock-radio\obj\Debug\net6.0\ref\clock-radio.dll
